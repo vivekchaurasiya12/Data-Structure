@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0001-two-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
