@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Stack
@@ -53,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
