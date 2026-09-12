@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
 |  |
 | ------- |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
 | ------- |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
