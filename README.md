@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
+| [0835-image-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -252,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
