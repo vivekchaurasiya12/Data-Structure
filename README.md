@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [0835-image-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0835-image-overlap) |
 | [0904-fruit-into-baskets](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0904-fruit-into-baskets) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0992-subarrays-with-k-different-integers) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -262,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0836-rectangle-overlap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
