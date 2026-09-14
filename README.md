@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3870-count-commas-in-range](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3870-count-commas-in-range) |
@@ -257,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
