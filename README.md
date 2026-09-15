@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
