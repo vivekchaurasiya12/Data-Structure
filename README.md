@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3870-count-commas-in-range](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3871-count-commas-in-range-ii) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
