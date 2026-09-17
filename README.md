@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
