@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
