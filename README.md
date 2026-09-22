@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
+| [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [3498-reverse-degree-of-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
