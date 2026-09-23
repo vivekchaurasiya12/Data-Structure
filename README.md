@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0836-rectangle-overlap) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
