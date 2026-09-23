@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3903-smallest-stable-index-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Queue
