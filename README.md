@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0560-subarray-sum-equals-k) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 ## Tree
 |  |
@@ -350,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
