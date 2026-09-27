@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/3498-reverse-degree-of-a-string) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
