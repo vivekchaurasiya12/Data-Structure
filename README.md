@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0496-next-greater-element-i](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0032-longest-valid-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0152-maximum-product-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0918-maximum-sum-circular-subarray) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
 |  |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
