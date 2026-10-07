@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
 ## Sliding Window
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0076-minimum-window-substring) |
 | [0257-binary-tree-paths](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0678-valid-parenthesis-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vivekchaurasiya12/Data-Structure/tree/master/1096-brace-expansion-ii) |
 ## Math
 |  |
